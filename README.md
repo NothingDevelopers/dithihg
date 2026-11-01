@@ -38,7 +38,24 @@
     anhyeucacemvl3000@
     ```
 ## QuizSolver
-(Sẽ update giống cái trên)
+- Account 1
+  - Email:
+    ```text
+    lizb2okk@mikfarm.com
+    ```
+  - Password:
+    ```text
+    anhyeucacemvl3000
+    ```
+- Account 2
+  - Email:
+    ```text
+    beyiv81556@moblha.com
+    ```
+  - Password:
+    ```text
+    anhyeucacemvl3000
+    ```
 ## Sider
 (Sẽ update giống cái trên)
 ## MaxAI
