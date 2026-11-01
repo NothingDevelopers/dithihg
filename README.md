@@ -3,20 +3,21 @@
 - Account 1
   - Email:
     ```text
-    test@gmail.com
+    lizb2okk@mikfarm.com
     ```
   - Password:
     ```text
-    123456
+    anhyeucacemvl3000
     ```
 - Account 2
   - Email:
     ```text
-    test@gmail.com
+    beyiv81556@moblha.com
     ```
   - Password:
     ```text
-    123456
+    anhyeucacemvl3000
+    ```
 ## Monica
 (Sẽ update giống cái trên)
 ## QuizSolver
