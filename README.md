@@ -66,3 +66,6 @@
 # Webmail
 * [Web 1](https://tmailor.com/vi/)
 * [Web 2](https://tempmail.ee/vi/temporary-email-for-chatgpt)
+
+# LSDC
+* [https://drive.google.com/drive/folders/1SWuisJSBKQBu8b20ysNvnKxM18av0erv](https://drive.google.com/drive/folders/1SWuisJSBKQBu8b20ysNvnKxM18av0erv)
