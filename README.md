@@ -67,5 +67,5 @@
 * [Web 1](https://tmailor.com/vi/)
 * [Web 2](https://tempmail.ee/vi/temporary-email-for-chatgpt)
 
-# LSDC
-* [https://drive.google.com/drive/folders/1SWuisJSBKQBu8b20ysNvnKxM18av0erv](https://drive.google.com/drive/folders/1SWuisJSBKQBu8b20ysNvnKxM18av0erv)
+# HHDC
+* [https://docs.google.com/document/d/1Gf5W9N73iVJ-cdqjz4pQfkeh36Bpr-ER/edit?usp=sharing&ouid=112444803904865518355&rtpof=true&sd=true](https://docs.google.com/document/d/1Gf5W9N73iVJ-cdqjz4pQfkeh36Bpr-ER/edit?usp=sharing&ouid=112444803904865518355&rtpof=true&sd=true)
