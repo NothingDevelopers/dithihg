@@ -68,4 +68,4 @@
 * [Web 2](https://tempmail.ee/vi/temporary-email-for-chatgpt)
 
 # HHDC
-* [https://docs.google.com/document/d/1Gf5W9N73iVJ-cdqjz4pQfkeh36Bpr-ER/edit?usp=sharing&ouid=112444803904865518355&rtpof=true&sd=true](https://docs.google.com/document/d/1Gf5W9N73iVJ-cdqjz4pQfkeh36Bpr-ER/edit?usp=sharing&ouid=112444803904865518355&rtpof=true&sd=true)
+* [https://drive.google.com/drive/folders/1v_F4QNd_ChMq_-pYT3LV9D_YI0ntYEYw?usp=sharing](https://drive.google.com/drive/folders/1v_F4QNd_ChMq_-pYT3LV9D_YI0ntYEYw?usp=sharing)
