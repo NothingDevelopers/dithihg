@@ -61,7 +61,7 @@
 ## MaxAI
 (Sẽ update giống cái trên)
 # API Key
-* [**Gemini (Google Cloud API) for QuizSolver v2:** ](https://notepad.vn/)
+* [**Gemini (Google Cloud API) for QuizSolver v2** ](https://notepad.vn/)
 
 # Webmail
 * [Web 1](https://tmailor.com/vi/)
