@@ -3,69 +3,66 @@
 - Account 1
   - Email:
     ```text
-    lizb2okk@mikfarm.com
+    test123@gmail.com
     ```
   - Password:
     ```text
-    anhyeucacemvl3000
+    test12345
     ```
 - Account 2
   - Email:
     ```text
-    beyiv81556@moblha.com
+    test123@gmail.com
     ```
   - Password:
     ```text
-    anhyeucacemvl3000
+    test12345
     ```
 ## Monica
 - Account 1
   - Email:
     ```text
-    lizb2okk@mikfarm.com
+    test123@gmail.com
     ```
   - Password:
     ```text
-    anhyeucacemvl3000@
+    test12345
     ```
 - Account 2
   - Email:
     ```text
-    beyiv81556@moblha.com
+    test123@gmail.com
     ```
   - Password:
     ```text
-    anhyeucacemvl3000@
+    test12345
     ```
 ## QuizSolver
 - Account 1
   - Email:
     ```text
-    lizb2okk@mikfarm.com
+    test123@gmail.com
     ```
   - Password:
     ```text
-    anhyeucacemvl3000
+    test12345
     ```
 - Account 2
   - Email:
     ```text
-    beyiv81556@moblha.com
+    test123@gmail.com
     ```
   - Password:
     ```text
-    anhyeucacemvl3000
+    test12345
     ```
 ## Sider
 (Sẽ update giống cái trên)
 ## MaxAI
 (Sẽ update giống cái trên)
 # API Key
-* [**Gemini (Google Cloud API) for QuizSolver v2:** ](https://notepad.vn/CVNPZIW24)
+* [**Gemini (Google Cloud API) for QuizSolver v2:** ](https://notepad.vn/)
 
 # Webmail
 * [Web 1](https://tmailor.com/vi/)
 * [Web 2](https://tempmail.ee/vi/temporary-email-for-chatgpt)
-
-# SHDC
-* [https://drive.google.com/drive/folders/1h1rLl1YnPXm2OCKWEmfjthYq3D4m8SkW?usp=sharing](https://drive.google.com/drive/folders/1h1rLl1YnPXm2OCKWEmfjthYq3D4m8SkW?usp=sharing)
